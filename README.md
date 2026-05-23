@@ -1,0 +1,2 @@
+# LTSpice_Low_Pass_Butterworth_Active_Filters_Frequency_Response_2
+LTSpice simulation ofn a Butterworth Low Pass Active Filter LM741 OpAmp
